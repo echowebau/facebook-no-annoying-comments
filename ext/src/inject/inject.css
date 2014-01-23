@@ -1,0 +1,20 @@
+
+
+
+.echoweb-hide {
+	height: 5px !important;
+	overflow: hidden !important;
+	padding: 0 !important;
+	background: #fee !important;	
+}
+
+.echoweb-hide div,
+.echoweb-hide span,
+.echoweb-hide a,
+.echoweb-hide img {
+	display:none;	
+}
+
+.echoweb-hide-off {
+	background: #fee !important;	
+}
